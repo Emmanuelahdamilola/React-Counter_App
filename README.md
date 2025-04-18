@@ -1,12 +1,47 @@
-# React + Vite
+# Simple React Counter App
+# Counter App
+A simple and stylish React counter application that allows users to increment and decrement a number between 0 and 10. Designed with a modern UI using custom CSS and responsive layout.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ✨ Features
 
-Currently, two official plugins are available:
+- ✅ Increment counter (up to 10)
+- ✅ Decrement counter (down to 0)
+- 🚫 Displays error messages when limit is reached
+- 🎨 Beautiful UI with gradient styling
+- 📱 Responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Tech Stack
 
-## Expanding the ESLint configuration
+- **React** (with functional components and hooks)
+- **CSS** (custom design and styling)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ How to Run Locally
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/your-username/counter-app.git
+   
+2. **Navigate into the project directory:**
+   cd counter-app
+   
+3. **Install dependencies:**
+   npm install
+   
+4. **Start the app:**
+   npm start
+
+5. **Open your browser and visit http://localhost:3000Start the app:**
+
+ **Author**
+**Name:** Emmanuellah Oluwadamilola Bello
+**GitHub:** @Emmanuelahdamilola
+
+## 📝 License
+This project is open source and available under the MIT License.
+
+
+
+
+
+   
+
