@@ -22,15 +22,18 @@ A simple and stylish React counter application that allows users to increment an
    git clone https://github.com/your-username/counter-app.git
    
 2. **Navigate into the project directory:**
+   ```bash
    cd counter-app
    
-3. **Install dependencies:**
+4. **Install dependencies:**
+   ```bash
    npm install
    
-4. **Start the app:**
+6. **Start the app:**
+   ```bash
    npm start
 
-5. **Open your browser and visit http://localhost:3000Start the app:**
+8. **Open your browser and visit http://localhost:3000Start the app:**
 
  **Author**
 **Name:** Emmanuellah Oluwadamilola Bello
