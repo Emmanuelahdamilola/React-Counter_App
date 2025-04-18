@@ -36,7 +36,7 @@ A simple and stylish React counter application that allows users to increment an
 8. **Open your browser and visit http://localhost:3000Start the app:**
 
  **Author**
-**Name:** Emmanuellah Oluwadamilola Bello
+**Name:** Emmanuelah Oluwadamilola Bello
 **GitHub:** @Emmanuelahdamilola
 
 ## 📝 License
